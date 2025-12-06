@@ -129,22 +129,6 @@ model = joblib.load("models/model.joblib")
 y_pred = model.predict(X_test)
 print(y_pred)
 
-📊 Results
-
-(Add these after you upload your images/metrics)
-
-Training accuracy: XX%
-
-Validation accuracy: XX%
-
-Confusion matrix
-
-Loss & accuracy graphs
-
-Class-wise performance
-
-You can upload plots as PNG images into GitHub and insert them here.
-
 🔮 Future Improvements
 
 Add LSTM or Bidirectional GRU variant
