@@ -52,8 +52,6 @@ Jupyter Notebook
 cyber-attack-detection-MLP-GRU/
 │── MLP-GRU.ipynb            # Jupyter Notebook
 │── MLP-GRU.html             # HTML exported version
-│── models/
-│     └── model.joblib       # Saved trained model
 │── requirements.txt         # Dependencies
 │── README.md                # Project documentation
 │── .gitignore
